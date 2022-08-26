@@ -1,0 +1,125 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.background-page {
+	background-color: black;
+	padding-top: 7px;
+}
+
+h1 {
+	margin: 0;
+	color: white;
+	text-align: center;
+	font-family: "Raleway", sans-serif;
+	font-size: 50px;
+	font-weight: 500;
+}
+
+.header-img {
+	width: 100%;
+}
+
+.iguana-fondo-text {
+	display: inline-block;
+}
+.iguana-fondo-text:first-child {
+	margin-left: 90px;
+}
+
+.igua-img {
+	margin-left: 106px;
+}
+
+main {
+	background: black;
+	color: white;
+}
+
+.paragraph {
+	font-family: "Raleway", sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	padding: 50px;
+	width: 475px;
+	height: 197px;
+	margin-left: 150px;
+}
+
+.fondo-iguana {
+	width: 399px;
+	height: 237px;
+	margin-left: 106px;
+}
+
+.features {
+	background-color: #1e1a13;
+	height: 348px;
+	margin: 0;
+}
+
+.main-features {
+	font-size: 40px;
+	font-family: "Raleway", sans-serif;
+	font-weight: 500;
+	text-align: center;
+	padding-top: 75px;
+	margin-bottom: 50px;
+}
+
+.features div {
+	display: inline-block;
+	text-align: center;
+}
+
+.features p {
+	font-family: "Raleway", sans-serif;
+	font-weight: 300;
+	font-size: 25px;
+}
+
+.features div:nth-child(2) {
+	margin-left: 580px;
+	margin-right: 182px;
+}
+
+.features div:nth-child(3) {
+	text-align: center;
+	margin-right: 145px;
+}
+
+.iguana-photos img {
+	width: 316px;
+	height: 202px;
+}
+
+.iguana-photos div {
+	display: inline-block;
+	margin-top: 73px;
+	margin-bottom: 73px;
+}
+
+.iguana-photos div:first-child {
+	margin-left: 420px;
+	margin-right: 16px;
+}
+
+.iguana-photos div:nth-child(2) {
+	margin-right: 16px;
+}
+
+.footer-iguana {
+	background-color: #1e1a13;
+	height: 102px;
+}
+
+.footer-iguana p {
+	margin: 0;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+	color: white;
+	text-align: center;
+	padding-top: 39px;
+}
